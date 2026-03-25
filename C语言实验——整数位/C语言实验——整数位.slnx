@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="C语言实验——整数位/C语言实验——整数位.vcxproj" />
+</Solution>

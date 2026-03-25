@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="二维数组元素的查找(输出每一行第一个找到的数)/二维数组元素的查找(输出每一行第一个找到的数).vcxproj" />
+</Solution>
